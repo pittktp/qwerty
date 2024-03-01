@@ -5,7 +5,7 @@ This repository contains a Discord bot implemented using [Disnake-Docker](https:
 ## Use
 
 ```bash
-git clone https://github.com/tbeidlershenk/KTP-bot.git
+git clone https://github.com/pittktp/qwerty.git
 ```
 
 The simplest way to start a container running a bot registered with [Discord](https://discord.com/developers/applications) is by creating an `.env` file.
